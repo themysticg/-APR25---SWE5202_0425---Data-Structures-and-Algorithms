@@ -8,10 +8,10 @@ public class PrintHashMapExample {
         // Create a HashMap to store student names and their scores
         Map<String, Integer> students = new HashMap<>();
         // Add student names and scores to the map
-        students.put("ram", 50);
-        students.put("ravi", 60);
-        students.put("raju", 70);
-        students.put("kumar", 80);
+        students.put("Jose", 50);
+        students.put("Ines", 60);
+        students.put("Paulo", 70);
+        students.put("Parita", 80);
 
         // Print a header message
         System.out.println("Printing all keys and their corresponding values:");
